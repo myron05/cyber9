@@ -834,6 +834,17 @@ text-transform: none;
 	width: 20%;
 	margin-top:  30px;
 }
+.table11 p{
+	font-family: 'Conv_visitor1';
+	color: #fff;
+	margin: auto;
+	font-size: 1.2em;
+	line-height: 120%;
+	width: 70%;
+	margin-top: 20px;
+	text-align: center;
+	text-transform:none;
+}
 .table12 img{
 	width: 100%;
 	margin-top: -100px;
