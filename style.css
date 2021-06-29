@@ -30,6 +30,13 @@
 	font-weight: normal;
 	font-style: normal;
 }
+@font-face {
+	font-family: 'Conv_visitor1';
+	src: url('fonts/visitor1.eot');
+	src: local('☺'), url('fonts/visitor1.woff') format('woff'), url('fonts/visitor1.ttf') format('truetype'), url('fonts/visitor1.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
 
 
@@ -821,6 +828,7 @@ text-transform: none;
 }
 .table9 p{
 	text-align: center;
+	font-family: 'Conv_visitor1';
 }
 .table10 img{
 	width: 20%;
