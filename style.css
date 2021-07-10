@@ -1070,6 +1070,7 @@ footer{
     font-weight: 400;
     text-transform: capitalize;
     line-height: 3rem;
+    font-family: 'Conv_paola';
 }
 .footer-content p{
     max-width: 500px;
