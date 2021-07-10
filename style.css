@@ -251,6 +251,7 @@ section img#mountains_front
   align-items: center;
   justify-content: center;
   padding: 40px 0;
+  text-transform: none;
 }
 
 .price span{
